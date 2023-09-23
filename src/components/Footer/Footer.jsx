@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className=" p-10 bg-base-200 text-base-content">
+    <footer className=" p-10 bg-[#1A1919] text-base-content text-white">
       <div className="footer max-w-6xl mx-auto">
       <aside>
         <svg
